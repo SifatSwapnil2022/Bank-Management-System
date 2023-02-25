@@ -1,0 +1,11 @@
+
+First name: Arthi
+Last name: Tabassum
+Id card: 2022-1-60-029
+Gender: female
+Phone number: 01521121
+Address: 12 aftabnagar
+Email no: arthi@yahoo.com
+Withdraw: 50000
+Deposit: 100000
+Transfer: 2111
